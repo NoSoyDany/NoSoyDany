@@ -18,3 +18,5 @@ Mi "historial trabajando" es el siguiente:
 
 ¡Feliz programación! </>
 ¡Nos vemos! <3
+
+[![NoSoyDany's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoSoyDany)](https://github.com/anuraghazra/github-readme-stats)
