@@ -20,3 +20,4 @@ Mi "historial trabajando" es el siguiente:
 ¡Nos vemos! <3
 
 [![NoSoyDany's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoSoyDany&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoSoyDany&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
