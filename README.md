@@ -16,6 +16,8 @@ Mi "historial trabajando" es el siguiente:
 - Fallen Angels, Web-store designer
 - La Nación Company, Main Developer
 - La Nación-Madrid, Main Developer
+- Hynix Network v2, Helper Developer
+- Secret project ?????, Head Developer
 
 ¡Feliz programación! </>
 ¡Nos vemos! <3
